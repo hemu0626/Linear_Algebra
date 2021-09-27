@@ -8,7 +8,7 @@ navbar:
     - text: "Note"
       href: note.html
     - text: "Extra Exercises"
-      href: exercises.html
+      href: exercises1.html
 output:
   html_document:
     theme: cosmo
