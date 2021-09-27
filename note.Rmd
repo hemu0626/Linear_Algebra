@@ -3,6 +3,7 @@ title: "Note"
 author: "Mu He"
 date: "9/28/2021"
 output: html_document
+runtime: shiny_prerendered
 ---
 
 ```{r setup, include=FALSE}
@@ -28,3 +29,22 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+```{r quiz1}
+library(learnr)
+quiz(
+  question("Which package contains functions for installing other R packages?",
+    answer("base"),
+    answer("tools"),
+    answer("utils", correct = TRUE),
+    answer("codetools")
+  ),
+  question("Which of the R packages listed below are used to create plots?",
+    answer("lattice", correct = TRUE),
+    answer("tools"),
+    answer("stats"),
+    answer("grid", correct = TRUE)
+  )
+)
+```
+
