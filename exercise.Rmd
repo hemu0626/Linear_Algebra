@@ -1,0 +1,21 @@
+---
+title: "Extra Exercises"
+author: "Mu He"
+date: "9/27/2021"
+output: html_document
+---
+
+```{r}
+library(webexercises)
+fitb(4,num=TRUE)
+```
+
+```{r letter-a, echo=FALSE}
+library(learnr)
+question("What number is the letter A in the English alphabet?",
+  answer("8"),
+  answer("14"),
+  answer("1", correct = TRUE),
+  answer("23")
+)
+```

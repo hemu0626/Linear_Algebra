@@ -1,0 +1,15 @@
+name: "Linear Algebra"
+output_dir: "docs"
+navbar:
+  title: "Linear Algebra"
+  left:
+    - text: "Posts"
+      href: post.html
+    - text: "Note"
+      href: note.html
+    - text: "Extra Exercises"
+      href: exercises.html
+output:
+  html_document:
+    theme: cosmo
+
