@@ -3,6 +3,7 @@ title: "Extra Exercises"
 author: "Mu He"
 date: "9/27/2021"
 output: html_document
+runtime: shiny_prerendered
 ---
 
 ```{r}
