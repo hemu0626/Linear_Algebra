@@ -3,14 +3,10 @@ output_dir: "docs"
 navbar:
   title: "Linear Algebra"
   left:
-    - text: "Posts"
-      href: post.html
     - text: "Note"
       href: note.html
-    - text: "Extra Exercises"
-      href: exercise.html
 output:
   html_document:
     theme: cosmo
-runtime: shiny_prerendered
+
 
