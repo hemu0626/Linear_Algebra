@@ -9,4 +9,4 @@ output:
 
 # Note Book 
 
-[Summary Note]('https://hemu0626.github.io/Bookdown_LA/')
+[Summary Note](https://hemu0626.github.io/Bookdown_LA/)

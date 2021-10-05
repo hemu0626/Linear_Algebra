@@ -5,4 +5,4 @@ output: html_document
 
 # Exercise 
 
-+ [Exercise Website]('https://hemu0626.shinyapps.io/Exercise_LA/')
++ [Exercise Website](https://hemu0626.shinyapps.io/Exercise_LA/)
