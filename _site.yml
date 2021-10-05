@@ -5,6 +5,15 @@ navbar:
   left:
     - text: "Note"
       href: note.html
+  left:
+    - text: "Posts"
+      href: post.html
+  left:
+    - text: "Exercise"
+      href: exercise.html
+  left:
+    - text: "Misc"
+      href: misc.html
 output:
   html_document:
     theme: cosmo
