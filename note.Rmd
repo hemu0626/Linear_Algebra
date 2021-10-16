@@ -1,5 +1,4 @@
 ---
-title: "Note"
 output:
   html_document:
     toc: true
@@ -7,6 +6,7 @@ output:
     toc_depth: 4
 ---
 
-# Note Book 
+### Note Book 
 
-[Summary Note](https://hemu0626.github.io/Bookdown_LA/)
++ To be updated
++ [Summary Note](https://hemu0626.github.io/Bookdown_LA/)

@@ -1,8 +1,12 @@
 ---
 title: "Extra Exercises"
-output: html_document
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 4
 ---
 
-# Exercise 
+#### Selected Text Book Exercise 
 
-+ [Exercise Website](https://hemu0626.shinyapps.io/Exercise_LA/)
++ [Chapter 1 Exercise](https://hemu0626.shinyapps.io/Exercise_LA/)
