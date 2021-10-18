@@ -7,4 +7,21 @@ output:
 ---
 ### MTH017 Linear Algebra for Mathematical Science
 
-#### Textbook 
+Linear Algebra is a fundamental course in Mathematical Sciences. In
+this module, we will introduce fundamental tools and basic theories for treating the
+linearity of many variables and crunching collections of numbers (data). 
+
+Roughly speaking, we will study vector geometry not only in the plane or space but also in n dimensional
+space. (Imagine that your ratings of 100 movies put you as a vector in
+100-dimensional space. Would you and five of your friends be actually sitting on a two dimensional
+plane contained in the 100-dimensional space?) 
+
+This module would be useful for future studies in mathematics and other disciplines, for example, statistics,
+finance, engineering, computer science, physics, economics and so on. Linear algebra
+also helps students to understand abstract concepts in group theory and quantum
+mechanics. 
+
+This course starts with solution of systems of linear equations, we will
+discuss matrix theory, vector space, and matrix spectral theory and inner product
+space. Together with the theory, we will introduce some case studies that aim to apply
+the techniques in linear algebra for solving real world problems.

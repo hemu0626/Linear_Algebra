@@ -1,5 +1,4 @@
 ---
-title: "Misc"
 output:
   html_document:
     toc: true
@@ -7,8 +6,8 @@ output:
     toc_depth: 4
 ---
 
-## Interesting Videos
+### Interesting Videos
 
-### 3Blue1Brown
+#### 3Blue1Brown
 
-+ [Linear Transformation](https://www.bilibili.com/video/BV1ns41167b9?share_source=copy_web)
++ [Linear Algebra](https://www.bilibili.com/video/BV1ys411472E?share_source=copy_web)
